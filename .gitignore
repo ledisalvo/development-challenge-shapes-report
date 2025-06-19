@@ -1,0 +1,64 @@
+﻿# Build results
+[Bb]in/
+[Oo]bj/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.log
+*.user
+*.suo
+*.vsp
+*.vspscc
+*.vssscc
+*.dbmdl
+*.bak
+
+# NuGet packages
+packages/
+*.nupkg
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+
+# Visual Studio
+.vs/
+*.vssscc
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# Test results
+TestResults/
+*.TestResult.xml
+*.trx
+
+# ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+# DotCover
+*.dcvr
+
+# StyleCop
+StyleCopReport.xml
+
+# Logs
+*.log
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Others
+*.orig
+*.tmp
+*.bak
+*.swp
+
+# Ignore local config transforms
+appsettings.*.json
